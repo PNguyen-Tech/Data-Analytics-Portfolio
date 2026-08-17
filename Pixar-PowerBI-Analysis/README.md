@@ -24,15 +24,13 @@ The primary objective is to evaluate: **How does Pixar balance blockbuster franc
 
 #### **1. Financial Performance & Movie Reviews**
 A comprehensive fiscal accounting view tracking individual movie profitability, production budgets, worldwide box office grosses, gross profit margins, and critical award accolades.
-![Financial Performance and Movie Reviews](financial_performance.png)
+<img width="1227" height="705" alt="Power BI 01" src="https://github.com/user-attachments/assets/95fca1dd-96da-49c6-879c-ea696bd9a969" />
+
 
 #### **2. Genre Trends & Subgenre Dynamics**
 An exploratory view tracking box office trajectory over time, genre performance distributions, scatter-plot profitability matrices (Budget vs. Global Gross), and high-grossing subgenre breakdowns.
-![Genre Trends and Subgenre Dynamics](genre_trends.png)
+<img width="1202" height="672" alt="Power BI 02" src="https://github.com/user-attachments/assets/b81b67c9-a69a-43c7-a91b-99f86bf2b733" />
 
-#### **3. Custom Tooltip Functionality**
-Context-aware, report-page tooltips configured to deliver granular per-film metrics (break-even status, awards summary, and release detail) upon hovering over chart elements.
-![Custom Tooltip Functionality](custom_tooltips.png)
 
 ---
 
