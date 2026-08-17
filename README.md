@@ -5,11 +5,11 @@ Welcome to my Data Analytics & Business Intelligence portfolio. This repository 
 ---
 
 ## 🗂️ Table of Contents
-* [1. Pixar Financial Performance Analysis Dashboard (Power BI)](#-1-pixar-financial-performance-analysis-dashboard)
-* [2. Pokémon: Media Dominance & Game Evolution (Tableau)](#-2-pokémon-a-data-driven-analysis-of-media-dominance--game-evolution-)
+* [1. Pixar Financial Performance Analysis Dashboard (Power BI)](#pixar-project)
+* [2. Pokémon: Media Dominance & Game Evolution (Tableau)](#pokemon-project)
 
 ---
-
+<a id="pixar-project"></a>
 ## 🎬 1. Pixar Financial Performance Analysis Dashboard
 
 **Tool:** Microsoft Power BI  
@@ -30,7 +30,7 @@ This project delivers a comprehensive financial evaluation of Pixar’s complete
 * **Custom Tooltip Functionality:** Context-aware interactive hover tooltips providing granular per-film metrics on demand.
 
 ---
-
+<a id="pokemon-project"></a>
 ## ⚡ 2. Pokémon: A Data-Driven Analysis of Media Dominance & Game Evolution
 
 **Tool:** Tableau Desktop  
