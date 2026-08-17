@@ -55,23 +55,3 @@ An exploratory data analysis examining Pokémon’s global media penetration alo
 | **Data Modeling & Analytics** | DAX (Calculated Columns, Measures), Relational Modeling, Exploratory Data Analysis (EDA) |
 | **Visual Design & Storytelling** | Custom Tooltips, Parameterized Filtering, Time-Series Forecasting, Profitability Matrices |
 | **Version Control & Management** | Git, GitHub |
-
----
-
-## 📁 Repository Structure
-
-```text
-├── Pixar-Financial-Analysis/
-│   ├── Pixar_Financial_Dashboard.pbix
-│   └── screenshots/
-│       ├── Financial_Performance.png
-│       ├── Genre_Trends.png
-│       └── Custom_Tooltips.png
-│
-└── Pokemon-Tableau-Analysis/
-    ├── Pokemon_Portfolio.twbx
-    └── screenshots/
-        ├── Brand_Awareness.png
-        ├── Game_Sales.png
-        ├── Card_Economics.jpg
-        └── Generation_Stats.jpg
