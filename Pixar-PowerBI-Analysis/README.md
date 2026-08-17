@@ -4,9 +4,9 @@
 
 ### **Project Overview**
 
-This project delivers a comprehensive financial and commercial evaluation of Pixar Animation Studios' feature film catalog. Developed in Microsoft Power BI, the interactive dashboard translates complex entertainment industry metrics into an actionable, data-driven narrative. 
+This project delivers a  financial and commercial evaluation of Pixar Animation Studios' feature movies. Developed in Microsoft Power BI, the interactive dashboard converts  entertainment industry metrics into an actionable, data-driven narrative. 
 
-By implementing robust relational data modeling and authoring custom DAX measures, the dashboard analyzes production budgets, worldwide box office gross distributions, Return on Investment (ROI) tiers, critical award recognitions, release timelines, and genre profitability dynamics.
+By implementing  relational data modeling and creating custom DAX measures, the dashboard analyzes production budgets, worldwide box office gross distributions, Return on Investment (ROI) tiers, critical award recognitions, release timelines, and genre profitability dynamics.
 
 The primary objective is to evaluate: **How does Pixar balance blockbuster franchise reliance with original intellectual property, and what factors drive long-term commercial and critical ROI?**
 
